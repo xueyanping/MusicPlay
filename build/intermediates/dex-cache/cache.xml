@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\76354282b8337ac969705ccaec223c6487836928\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb8f9d75bca081c4c8d6f2887ca2a72a97fb8ba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\SDK\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_e073e845038d9cd7f5ab5feb7c0e227154495449\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ce99f8161a62dd41abbf98f191104eeccacf9a12\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aca49e2eeb1552660e76c84f4528ac671e22d4cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\56d9ff014172ba195777f2ff72ff73283c16d189\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cf29f30c5d2d3ff7d5de5636228be997eabb94c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\libs\JID3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be0c93c29e3b874e507204a3da32e4e9c2364bb2">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\2\JID3_43850016a4725c91bfba0b913db61832381b7d3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_2ea39afb3973a142a4b831a99bc4e2df1de6a0a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\91e8824a0142648ca3519e49382d67610c936e5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e0c0af22c2671c3bff325ca46a4ab9234c1d0ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\31bd70130463de6c06383a5e7fd41e1d2a687816\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09ac0e22062ea09c2e67181cdfed6b1997e4591a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\2657097106e7dbd9a8e313c028cc7e15c8d18b0b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1df4fb3a141371f544aef2f6ea20e07ff317431\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0f37032c5090b9f224fed7541b8e087a8d5030a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8a5b7ac576e0ab89535a2851ed478a2ab3ba806\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\477cf433dd31914ee751379c18a4f9b3af65ef47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5282459a7b815423df240a1b31daee3a55d6d9df">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4edd64232428de01458952bcfbd382225694c8ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4efddaf950cbacf90b652a5b702c4d202ed4e0da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89e478bdd8435a24e37741c00e4336bde776785b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0ba6d42ddfcf5308e2a855b7c151cd2673281808\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_562ed818ce24f4beeaa8fe6360211cfa882dc87a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0f450dbda92934ef10ec6bec51352964fa410afd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_857a7066ceab6cca4663ac731929e12cf1c20e1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\fbee05fd0fabe08eedd1583e2d7f236dae285706\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72359270b113270c79b356c40484f3085120e965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a8f3885df482fcb4be3a41137c453cfd6de6d3f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\667ab7a8d15e0c10bbbb35e555ae823a1de20fcd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df95473b88533f43a76c730d76fca82e3d468d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7bb455d8192533ea1551ceb3aa6d29d1810b4765\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12c3cdfe456ddecfccef6ac72401e06fa059baf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e8aac0b048cb1fc4d05d1ecfbdcb92e03a258e5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2defbf42a1a21c413aeedc1c99779f521479892\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="52c9e9d943830cb0e30560fd6350a5b8de1d9c5a">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_69228b1796594bff7c406206e7f1a355c040afa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\SDK\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_927324462f06ba9ca55ff964cf3d88957748e9ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.8.0_a96f8003bbe82e33082bdbb64b5d8c73bfb5d56e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\c4d1b28f0bde3a6974d9f84ff4d9a72e5cde50d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2513b1c7b61e1607de4a66a92543254269a281">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19723e269be3b35b96acf29d30affc8ee960e6aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\libs\AMap_Location_1.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71e7604372d8a66689ff8df047e9a748e19a5169">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_1.3.3_36a2b13f3fb34a5678713c1d7ae54313c1ab2d54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="F:\MyDownloads\AndroidDownloadProject\android_music_player\android_music_player\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="me.wcy:lrcview-2.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/c4d1b28f0bde3a6974d9f84ff4d9a72e5cde50d1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c4d1b28f0bde3a6974d9f84ff4d9a72e5cde50d1/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.wcy/lrcview/2.0.0/53ed918a4babc53112ad20f457ab469ba43df4c4/lrcview-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
